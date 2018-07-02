@@ -11,7 +11,7 @@
      SUPPORT
       </a>
   <br />
- COMMUNITY BOT</h1>
+ <h1>COMMUNITY BOT</h1>
   </div>
   
   
