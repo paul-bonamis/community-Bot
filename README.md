@@ -8,10 +8,31 @@
   </div>
   <div align="center">
    <a href="http://oxsay.cf" title="">
-     <h1>SUPPORT</h1>
+     SUPPORT
       </a>
   <br />
- <h1>COMMUNITY BOT</h1>
+ <h1>COMMANDE DISPONIBLE</h1>
+  <br />
+  PURGE
+  <br />
+  MUTE
+  <br />
+  STATS
+  <br />
+  STATS USER
+  <br />
+  EMBED REGLES, SOCIAL..
+  <br />
+  SYSTEME DE SIGNALEMENT
+<br />
+COMMANDE ROLES (PC, PS4, XBOX..)
+  <br />
+  ANTI INSULTE
+  <br />
+  ANTI PUB DISCORD
+  <br />
+  RANDOM BONJOUR, SALUT..
+  
   </div>
   
   
