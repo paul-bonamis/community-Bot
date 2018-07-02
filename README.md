@@ -10,6 +10,7 @@
    <a href="http://oxsay.cf" title="">
      SUPPORT
       </a>
+  <br />
  COMMUNITY BOT</h1>
   </div>
   
