@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="http://oxsay.cf" title="">
-    <img alt="" src="https://i.skyrock.net/2110/93482110/pics/3297873372_1_3_aUIlyGBE.png" width="200px" height="200px" />
+    <img alt="" src="https://i.skyrock.net/2110/93482110/pics/3297873372_1_3_aUIlyGBE.png" width="200px" height="230px" />
   </a>
   <br /><br />
   COMMUNITY BOT</h1>
