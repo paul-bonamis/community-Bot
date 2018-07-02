@@ -8,7 +8,7 @@
   </div>
   <div align="center">
    <a href="http://oxsay.cf" title="">
-     SUPPORT
+     <h1>SUPPORT</h1>
       </a>
   <br />
  <h1>COMMUNITY BOT</h1>
